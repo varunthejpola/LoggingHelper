@@ -1,0 +1,8 @@
+[main] INFO  testclass  - I am running fine
+[main] INFO  testclass  - corealted1 hahaha
+[main] DEBUG testclass  - corealted1 hahaha
+[main] INFO  testclass  - corealted1 hahaha
+[main] DEBUG testclass  - corealted1 debug level
+[main] INFO  testclass  - corealted1 info level
+[main] DEBUG testclass  - corealted1 debug level
+[main] INFO  testclass  - corealted1 info level
